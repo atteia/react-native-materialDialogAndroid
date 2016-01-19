@@ -19,6 +19,6 @@
   "repository": "https://github.com/marsprince/react-native-materialDialogAndroid",
   "bugs": "https://github.com/marsprince/react-native-materialDialogAndroid/issues",
   "peerDependencies": {
-    "react-native": ">=0.13"
+    "react-native": ">=0.13 || 0.18.0-rc"
   }
 }
